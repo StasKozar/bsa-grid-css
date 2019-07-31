@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Blog</title>
+    <meta title="Blog">
+    <meta description="My Blog">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+  </head>
+  <body>
+      <header>
+          <img src="https://i1.wp.com/csone.co.uk/wp-content/uploads/2019/01/php-logo-150x150.png?resize=150%2C150&ssl=1">
+        <div class="search">
+          <i class="fas fa-search"></i>
+        </div>
+        <div class="socials">
+          <i class="fab fa-facebook"></i>
+          <i class="fab fa-instagram"></i>
+          <i class="fab fa-linkedin"></i>
+          <i class="fab fa-twitter-square"></i>
+        </div>
+        <div class="menu">
+          <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </div>
+      </header>
+      <main>
+        <div class="post">
+          <div class="post-img scale">
+            <img src="https://i.guim.co.uk/img/media/66853f01883ccd9a52cfb09bc7be1bf079680399/0_112_2453_1472/master/2453.jpg?width=300&quality=85&auto=format&fit=max&s=2fc28723953de6b0e514299011e130c8" alt="post-image">
+          </div>
+          <div class="post-title">
+            <span>Post Title about Red Moon</span>
+          </div>
+          <div class="post-data">
+            <span>Published: <input type="date" value="2019-07-26"></span>
+          </div>
+          <div class="post-short-description">
+            <span>The short description how a red moon appear above the house.</span>
+          </div>
+          <div class="post-comments">
+            <span class="fa fa-comment">5</span>
+          </div>
+          <div class="post-rating">
+            <span>☆</span>
+            <span>☆</span>
+            <span>☆</span>
+            <span>☆</span>
+            <span>☆</span>
+          </div>
+        </div>
+        <div class="post">
+          <div class="post-img scale">
+            <img src="https://i.guim.co.uk/img/media/66853f01883ccd9a52cfb09bc7be1bf079680399/0_112_2453_1472/master/2453.jpg?width=300&quality=85&auto=format&fit=max&s=2fc28723953de6b0e514299011e130c8" alt="post-image">
+          </div>
+          <div class="post-title">
+            <span>Post Title about Red Moon</span>
+          </div>
+          <div class="post-data">
+            <span>Published: <input type="date" value="2019-07-26"></span>
+          </div>
+          <div class="post-short-description">
+            <span>The short description how a red moon appear above the house.</span>
+          </div>
+          <div class="post-comments">
+            <span class="fa fa-comment">14</span>
+          </div>
+          <div class="post-rating">
+            <span>☆</span>
+            <span>☆</span>
+            <span>☆</span>
+            <span>☆</span>
+            <span>☆</span>
+          </div>
+        </div>
+        <div class="post">
+          <div class="post-img scale">
+            <img src="https://i.guim.co.uk/img/media/66853f01883ccd9a52cfb09bc7be1bf079680399/0_112_2453_1472/master/2453.jpg?width=300&quality=85&auto=format&fit=max&s=2fc28723953de6b0e514299011e130c8" alt="post-image">
+          </div>
+          <div class="post-title">
+            <span>Post Title about Red Moon</span>
+          </div>
+          <div class="post-data">
+            <span>Published: <input type="date" value="2019-07-26"></span>
+          </div>
+          <div class="post-short-description">
+            <span>The short description how a red moon appear above the house.</span>
+          </div>
+          <div class="post-comments">
+            <span class="fa fa-comment">7</span>
+          </div>
+          <div class="post-rating">
+            <span>☆</span>
+            <span>☆</span>
+            <span>☆</span>
+            <span>☆</span>
+            <span>☆</span>
+          </div>
+        </div>
+        <div class="post">
+          <div class="post-img scale">
+            <img src="https://i.guim.co.uk/img/media/66853f01883ccd9a52cfb09bc7be1bf079680399/0_112_2453_1472/master/2453.jpg?width=300&quality=85&auto=format&fit=max&s=2fc28723953de6b0e514299011e130c8" alt="post-image">
+          </div>
+          <div class="post-title">
+            <span>Post Title about Red Moon</span>
+          </div>
+          <div class="post-data">
+            <span>Published: <input type="date" value="2019-07-26"></span>
+          </div>
+          <div class="post-short-description">
+            <span>The short description how a red moon appear above the house.</span>
+          </div>
+          <div class="post-comments">
+            <span class="fa fa-comment">3</span>
+          </div>
+          <div class="post-rating">
+            <span>☆</span>
+            <span>☆</span>
+            <span>☆</span>
+            <span>☆</span>
+            <span>☆</span>
+          </div>
+        </div>
+        <div class="post">
+          <div class="post-img scale">
+            <img src="https://i.guim.co.uk/img/media/66853f01883ccd9a52cfb09bc7be1bf079680399/0_112_2453_1472/master/2453.jpg?width=300&quality=85&auto=format&fit=max&s=2fc28723953de6b0e514299011e130c8" alt="post-image">
+          </div>
+          <div class="post-title">
+            <span>Post Title about Red Moon</span>
+          </div>
+          <div class="post-data">
+            <span>Published: <input type="date" value="2019-07-26"></span>
+          </div>
+          <div class="post-short-description">
+            <span>The short description how a red moon appear above the house.</span>
+          </div>
+          <div class="post-comments">
+            <span class="fa fa-comment">11</span>
+          </div>
+          <div class="post-rating">
+            <span>☆</span>
+            <span>☆</span>
+            <span>☆</span>
+            <span>☆</span>
+            <span>☆</span>
+          </div>
+        </div>
+      </main>
+      <aside>
+        <div class="author">
+          <div class="author-photo">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMOhxp50icL1ajcbkIXzjS0CJ3zc2rnWDlXCpnQ_Qsf3vYubmq" alt="author-photo">
+          </div>
+          <div class="author-name">
+            <span>John Doe</span>
+          </div>
+          <div class="short-description">
+            <span>Very popular author around the world, he specialized on articles about Red Moon.
+          </div>
+        </div>
+        <div class="author-socials">
+          <i class="fab fa-facebook"></i>
+          <i class="fab fa-instagram"></i>
+          <i class="fab fa-linkedin"></i>
+          <i class="fab fa-twitter-square"></i>
+        </div>
+        <div class="subscribe">
+          <input type="text" placeholder="Name">
+          <input type="email" placeholder="Email">
+          <button type="submit">Subscribe</button>
+        </div>
+          <div class="search">
+            <input type="text" placeholder="Search">
+            <button type="submit">Search</button>
+          </div>
+          <div class="tags">
+            <span>problem story criticism philosophy breath boyfriend proposal response contract dirt health</span>
+          </div>
+          <div class="last-comment">
+            <div class="comment-author-photo">
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRp4kKC007NfgaXHB9WubLDpIS5DwEu-qbQkvjY5stXZFYo-dM" alt="comment author photo">
+            </div>
+            <div class="comment-author-name">
+              <span>Jane Doe</span>
+            </div>
+            <div class="last-comment-body">
+              <span>Dude you're awesome</span>
+            </div>
+          </div>
+      </aside>
+      <footer>
+        <img src="https://i1.wp.com/csone.co.uk/wp-content/uploads/2019/01/php-logo-150x150.png?resize=150%2C150&ssl=1">
+        <div class="copyright">All right reserved (c) PHP</div>
+      </footer>
+  </body>
+  <style>
+    * {
+  box-sizing: border-box;
+}
+
+img {
+    max-width:100%;
+    height:auto;
+}
+
+body {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: 150px auto auto;
+  grid-gap: 1em;
+  font-size: 1.2em;
+}
+
+header,
+footer {
+  grid-column: 1 / span 5;
+}
+
+main {
+  grid-column: 1 / span 3;
+}
+
+aside {
+  grid-column: span 2;
+}
+
+body {
+  margin: 0 auto;
+  max-width: 1200px;
+  padding: 0;
+}
+
+header,
+aside,
+footer {
+  background: #eaeaea;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+header,
+footer {
+  height: 150px;
+}
+
+/** HEADER */
+
+header {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 1em;
+}
+
+header img {
+  grid-column: 1/3;
+}
+
+header .search {
+  grid-column: 3;
+  grid-row: 1;
+  align-self: start;
+  text-align: center;
+}
+
+header .socials {
+  grid-column: 3;
+  grid-row: 1;
+  align-self: start;
+  justify-self: right;
+}
+
+header .menu {
+  grid-row: 1;
+  grid-column: 3;
+  align-self: end;
+  justify-self: right;
+}
+
+header .menu ul li {
+  display: inline-block;
+}
+
+header .menu ul li a {
+  text-decoration: none;
+  color: black;
+}
+
+header .menu ul li a:hover {
+  color: orange;
+}
+
+/** HEADER */
+
+/** MAIN */
+
+main {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 1em;
+  justify-content: center;
+}
+
+.post {
+  width: minmax(100px, 260px);
+  box-shadow: 0 0 3px 1px #dddddd;
+}
+
+.post-img {
+  display: block;
+}
+
+.post-info {
+  padding: 10px;
+}
+
+.post-title: {
+  font-size: 18px;
+  font-weight: normal;
+  margin-bottom: 5px;
+}
+.scale {
+  display: inline-block;
+  overflow: hidden;
+}
+
+.scale img {
+  transition: 1s;
+  display: block;
+}
+
+.scale img:hover {
+  transform: scale(1.2);
+}
+
+.post-rating {
+  unicode-bidi: bidi-override;
+  direction: rtl;
+}
+
+.post-rating > span {
+  display: inline-block;
+  position: relative;
+  width: 1.1em;
+}
+
+.post-rating > span:hover:before,
+.post-rating > span:hover ~ span:before {
+   content: "\2605";
+   position: absolute;
+}
+
+/** MAIN */
+
+/** ASIDE */
+
+aside {
+  display: grid;
+  grid-template-columns: 1fr;
+  background-color: #899067;
+  align-content: start;
+}
+
+.author {
+  text-align: center;
+}
+
+.author-photo {
+  display: block;
+  width: 1fr;
+}
+
+.author-socials {
+  font-size: 24px;
+  text-align: center;
+}
+
+.subscribe > input,
+.subscribe > button {
+  width: 100%;
+}
+
+.search {
+  width: 100%;
+  display: inline-block;
+}
+
+.tags {
+  text-align: center;
+}
+
+.comment-author-photo img {
+  display: inline-block;
+  width: 20%;
+}
+
+.comment-author-name {
+  display: inline-block;
+}
+
+/** ASIDE */
+
+/** FOOTER */
+
+footer {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+footer img {
+  grid-column: 2/3;
+}
+
+footer .copyright {
+  font-size: 16px;
+}
+
+/** FOOTER */
+
+@media (max-width: 700px) {
+  
+  main,
+  aside {
+    grid-column: 1 / span 5;
+  }
+  
+  /** HEADER */
+  
+  .socials {
+    display: none;
+  }
+  
+  header img {
+    grid-column: 2/3;
+    grid-row: 1/2;
+    align-self: end;
+  }
+
+  header .search {
+    grid-column: 4;
+    grid-row: 1;
+    align-self: start;
+    justify-self: right;
+    margin-right: 0;
+  }
+  
+  header .menu ul li {
+    display: flex;
+  }
+  
+  header .menu {
+    grid-column: 1;
+    grid-row: 1;
+    align-self: start;
+    justify-self: left;
+  }
+  
+  /** HEADER */
+}
+  </style>
+</html>
